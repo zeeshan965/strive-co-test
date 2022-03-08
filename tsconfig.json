@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "es2020",
+        "moduleResolution": "node",
+        "baseUrl": "./",
+        "strict": true,
+        "skipLibCheck": true,
+        "noImplicitAny": true,
+        "jsx": "react-jsx",
+        "allowSyntheticDefaultImports": true
+    },
+    "include": ["resources/js/**/*"]  // Frontend paths pattern
+}
